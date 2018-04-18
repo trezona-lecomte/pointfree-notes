@@ -1,2 +1,3 @@
-# pointfree-notes
-Notes and my exercise solutions for https://www.pointfree.co/
+# Point Free Notes
+
+My notes and exercise solutions for https://www.pointfree.co
